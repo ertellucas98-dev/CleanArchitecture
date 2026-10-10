@@ -2,7 +2,7 @@
 
 namespace Colaborador\UseCase;
 
-use Colaborador\Enttiy\Colaborador;
+use Colaborador\Entity\Colaborador;
 use Colaborador\Adapter\RepositoryInterface;
 
 
